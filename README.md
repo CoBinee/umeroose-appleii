@@ -1,6 +1,6 @@
 # ウメルーズ
 
-[![ウメルーズ](http://img.youtube.com/vi/*/0.jpg)](https://www.youtube.com/watch?v=*)
+[![ウメルーズ](http://img.youtube.com/vi/3N0VM5p3LGk/0.jpg)](https://www.youtube.com/watch?v=3N0VM5p3LGk)
 
 ## SIDELOAD
 Releases にある umeroose-xxx.dsk ファイルをダウンロード、[Apple\]\[js](https://www.scullinsteel.com/apple2/) などの AppleII 環境で動かしてください。
